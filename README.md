@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./banner.png" alt="Andres Rios" />
+  <img src="./bannerBlack.png" alt="Andres Rios" />
 </h1>
 
 ## Hey! 👋
